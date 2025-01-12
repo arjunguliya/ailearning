@@ -8,8 +8,8 @@
 </p>
 
 ## Tutor
+> If you want to learn how to build this, check out [**the tutorial**](https://docs.together.ai/docs/ai-tutor)!
 
-Tutorial <a herf="https://docs.together.ai/docs/ai-tutor">
 
 ## Tech stack
 
