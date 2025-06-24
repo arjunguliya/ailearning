@@ -45,12 +45,13 @@ const Hero: FC<THeroProps> = ({
             Powered by <b>Scholar AI</b> and <b>Chatzy AI</b>
           </span>
         </a>
-        <h2 className="mt-2 bg-custom-gradient bg-clip-text text-center text-4xl font-medium tracking-tight text-gray-900 sm:text-6xl">
+        <h2 className="mt-2 bg-custom-gradient bg-clip-text text-center text-2xl font-medium tracking-normal text-gray-900 whitespace-nowrap sm:text-3xl">
           Your Personal{" "}
           <span className="bg-gradient-to-r from-blue-600 to-blue-500 bg-clip-text font-bold text-transparent">
             AI Learning Assistant
           </span>
         </h2>
+        
         <p className="mt-4 text-balance text-center text-sm sm:text-base">
           Enter a topic you want to learn about along with the education level
           you want to be taught at and generate a Personalized AI Assistant tailored to
