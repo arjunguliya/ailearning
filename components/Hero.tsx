@@ -45,7 +45,7 @@ const Hero: FC<THeroProps> = ({
             Powered by <b>Scholar AI</b> and <b>Chatzy AI</b>
           </span>
         </a>
-        <h2 className="mt-2 bg-custom-gradient bg-clip-text text-center text-2xl font-medium tracking-normal text-gray-900 whitespace-nowrap sm:text-3xl">
+        <h2 className="mt-2 bg-custom-gradient bg-clip-text text-center text-3xl font-medium tracking-normal text-gray-900 whitespace-nowrap sm:text-4xl">
           Your Personal{" "}
           <span className="bg-gradient-to-r from-blue-600 to-blue-500 bg-clip-text font-bold text-transparent">
             AI Learning Assistant
