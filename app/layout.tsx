@@ -7,10 +7,10 @@ import bgImage from "../public/new-bg.png";
 
 const montserrat = Montserrat({ subsets: ["latin"] });
 
-let title = "Scholar AI - Personal Tutor";
-let description = "Learn faster with Scholar AI's Personal Tutor";
-let url = "https://aitutor.scholarai.co/";
-let ogimage = "https://aitutor.scholarai.co/og-image.png";
+let title = "Scholar AI - Your Personal AI Learning Assistant";
+let description = "Learn faster with Scholar AI";
+let url = "https://ailearning.scholarai.co/";
+let ogimage = "https://ailearning.scholarai.co/og-image.png";
 let sitename = "scholarai.co";
 
 export const metadata: Metadata = {
@@ -45,7 +45,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="h-full">
       <head>
-        <PlausibleProvider domain="aitutor.scholarai.co" />
+        <PlausibleProvider domain="ailearning.scholarai.co" />
       </head>
 
       <body
