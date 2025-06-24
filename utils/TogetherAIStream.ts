@@ -28,6 +28,7 @@ export async function TogetherAIStream(payload: TogetherAIStreamPayload) {
   // Enhance payload with optimal parameters for educational content
   const optimizedPayload = {
     ...payload,
+    model: "deepseek-ai/DeepSeek-R1", // Hardcoded to DeepSeek-R1
     temperature: payload.temperature || 0.7, // Good balance for educational content
     max_tokens: payload.max_tokens || 2048, // Longer responses for detailed explanations
     top_p: payload.top_p || 0.9, // Good diversity in responses
