@@ -48,12 +48,12 @@ const Hero: FC<THeroProps> = ({
         <h2 className="mt-2 bg-custom-gradient bg-clip-text text-center text-4xl font-medium tracking-tight text-gray-900 sm:text-6xl">
           Your Personal{" "}
           <span className="bg-gradient-to-r from-blue-600 to-blue-500 bg-clip-text font-bold text-transparent">
-            Tutor
+            AI Learning Assistant
           </span>
         </h2>
         <p className="mt-4 text-balance text-center text-sm sm:text-base">
           Enter a topic you want to learn about along with the education level
-          you want to be taught at and generate a personalized tutor tailored to
+          you want to be taught at and generate a Personalized AI Assistant tailored to
           you!
         </p>
 
@@ -92,7 +92,7 @@ const Hero: FC<THeroProps> = ({
           Fully open source!{" "}
           <span className="text-sm font-medium underline">
             <a
-              href="https://github.com/Nutlope/llamatutor"
+              href="https://github.com/ailearning/ailearning"
               target="_blank"
               rel="noopener noreferrer"
             >
