@@ -88,7 +88,7 @@ const Hero: FC<THeroProps> = ({
             </div>
           ))}
         </div>
-/*
+        {/*
 //        <p className="text-center text-sm font-light leading-[normal] text-[#1B1B16]">
 //          Fully open source!{" "}
 //          <span className="text-sm font-medium underline">
@@ -101,7 +101,7 @@ const Hero: FC<THeroProps> = ({
 //            </a>
 //          </span>
 //        </p>
-*/                
+*/}                
       </div>
       <div className="mx-auto max-w-7xl">
         <Image
