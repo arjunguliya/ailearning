@@ -66,21 +66,6 @@ export const suggestions: suggestionType[] = [
     name: "Financial Literacy",
     icon: "/finance.svg",
   },
-  {
-    id: 4,
-    name: "Programming Fundamentals",
-    icon: "/us.svg",
-  },
-  {
-    id: 5,
-    name: "World History Timeline",
-    icon: "/basketball-new.svg",
-  },
-  {
-    id: 6,
-    name: "Human Biology",
-    icon: "/light-new.svg",
-  },
 ];
 
 export const getSystemPrompt = (
