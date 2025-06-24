@@ -88,18 +88,18 @@ const Hero: FC<THeroProps> = ({
             </div>
           ))}
         </div>
-        <p className="text-center text-sm font-light leading-[normal] text-[#1B1B16]">
+        /*<p className="text-center text-sm font-light leading-[normal] text-[#1B1B16]">
           Fully open source!{" "}
           <span className="text-sm font-medium underline">
             <a
-              href="https://github.com/ailearning/ailearning"
+              href="https://github.com/arjunguliya/ailearning"
               target="_blank"
               rel="noopener noreferrer"
             >
               Star it on github.
             </a>
           </span>
-        </p>
+        </p>*/
       </div>
       <div className="mx-auto max-w-7xl">
         <Image
